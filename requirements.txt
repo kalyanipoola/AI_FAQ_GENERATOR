@@ -1,3 +1,7 @@
-streamlit
-groq
-python-dotenv
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+rank-bm25>=0.2.2
+PyMuPDF>=1.24
+pytest>=8.0
+httpx>=0.27
